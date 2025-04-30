@@ -84,4 +84,11 @@ All-in-One: Combines cleaning + analysis + visualization
 EXE Ready: Pre-configured for PyInstaller deployment
 
 Simply clone and run GUI0.3.py to start!
+----------------------------------------------------------------------------------------
+## 📦 Requirements
 
+Install dependencies with:
+
+```bash
+pip install pandas matplotlib tkinter
+(Note: Tkinter usually comes pre-installed with Python)
